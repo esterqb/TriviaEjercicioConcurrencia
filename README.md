@@ -21,3 +21,5 @@ Una vez hagas eso, el orden será el siguiente:
 9. Al pasar 40 segundos, se cierra la pregunta actual y se salta a la siguiente. Luego, se te dirá si es correcta o no.
 10. Tras 4 segundos, aparece la pregunta siguiente.
 11. Al finalizar, se muestra el ranking de los jugadores con los puntos.
+
+Puedes consultar un vídeo que hay incluido en el proyecto para ver el funcionamiento 😊
